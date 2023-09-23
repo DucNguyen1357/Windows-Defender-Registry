@@ -1,36 +1,3 @@
-::[Bat To Exe Converter]
-::
-::YAwzoRdxOk+EWAjk
-::fBw5plQjdCyDJGyX8VAjFD9BTyqFKXK/CIk47fvw++WXnngTQOsrdIrfiPqHI+9z
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSDk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpCI=
-::egkzugNsPRvcWATEpCI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZksaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbCXqZg==
-::ZQ05rAF9IAHYFVzEqQIHIRVQQxORfE+/ALAS7O3pr9iCpUQOQPAmGA==
-::eg0/rx1wNQPfEVWB+kM9LVsJDDOLMm+1EaZczO396uSDp19dZuc4cZzPyK3u
-::fBEirQZwNQPfEVWB+kM9LVsJDDOLMm+1EaZczO396uSDp19dZuc4cZzPyK3u
-::cRolqwZ3JBvQF1fEqQIfJlR7SgLCC2K0AroL+6jf6uyCrEkYRoI=
-::dhA7uBVwLU+EWH2R92w3PQJRQkSxM22uEbQO7Yg=
-::YQ03rBFzNR3SWATE0FczBhxBVQGMfFi1AKEL6fr+jw==
-::dhAmsQZ3MwfNWATEVosTJwtNXg2FNH/6JKxczP34we2Su0gTFNEwfpvM26aLQA==
-::ZQ0/vhVqMQ3MEVWAtB9wDA5XYgOXJW60RoYT7vzs7viCwg==
-::Zg8zqx1/OA3MEVWAtB9wDA5XYgOXJW60RoYT7vzs7viCwg==
-::dhA7pRFwIByZRRmg4UEeLw5NSQrCD2S8EqId+u2b
-::Zh4grVQjdCyDJGyX8VAjFD9BTyqFKXK/CIk47fvw++WXnnoUWuYwb5yb/rGIJe4X71ekR5Mq32lOitJMOkoWLlKJd08QvG1ssXGcMsnSthfkKg==
-::YB416Ek+ZW8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 @echo off
 title Windows Defender Registry V1.0 By DucNguyen
 
